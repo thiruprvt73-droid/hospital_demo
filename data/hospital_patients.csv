@@ -1,0 +1,31 @@
+age,gender,diagnosis,treatment,days_in_hospital,num_previous_admissions,readmitted
+45,M,Diabetes,Insulin,4,1,Yes
+67,F,Heart Disease,Surgery,7,3,Yes
+31,M,Pneumonia,Antibiotics,3,0,No
+52,F,Diabetes,Insulin,5,2,Yes
+unknown,M,Heart Disease,Surgery,6,1,No
+78,F,,Antibiotics,2,4,Yes
+43,M,Pneumonia,Insulin,4,0,No
+55,F,Diabetes,Surgery,8,2,Yes
+61,M,Heart Disease,Antibiotics,3,3,No
+49,F,Pneumonia,Insulin,5,1,No
+38,M,Diabetes,Surgery,6,2,Yes
+72,F,Heart Disease,Antibiotics,7,5,Yes
+44,M,Pneumonia,Insulin,4,1,No
+58,F,Diabetes,Surgery,3,0,Yes
+66,M,,Antibiotics,5,3,No
+39,F,Heart Disease,Insulin,6,2,Yes
+51,M,Pneumonia,Surgery,4,1,No
+63,F,Diabetes,Antibiotics,7,4,Yes
+47,M,Heart Disease,Insulin,3,0,No
+70,F,Pneumonia,Surgery,8,3,Yes
+35,M,Diabetes,Insulin,4,1,Yes
+80,F,Heart Disease,Surgery,9,6,Yes
+29,M,Pneumonia,Antibiotics,2,0,No
+57,F,Diabetes,Insulin,6,2,Yes
+unknown,F,Heart Disease,Surgery,5,2,Yes
+42,M,,Antibiotics,3,1,No
+68,F,Diabetes,Insulin,7,4,Yes
+33,M,Pneumonia,Surgery,3,0,No
+75,F,Heart Disease,Antibiotics,8,5,Yes
+50,M,Diabetes,Insulin,5,2,Yes
